@@ -1,0 +1,8 @@
+This file has all the Python packages your project depends on. Based on your heart disease prediction project, here's the starting point 
+numpy
+pandas
+matplotlib
+scikit-learn
+seaborn
+joblib
+in the jupyer notebook or vs code, jupyter notebook is recomended
