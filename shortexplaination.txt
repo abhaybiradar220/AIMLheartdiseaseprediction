@@ -1,0 +1,22 @@
+
+Heart Disease Prediction | Mini Project
+Team size: 3 | Technologies: Python, Pandas, NumPy, Scikit-learn, Matplotlib
+Jan 2024 – Mar 2024
+
+Built and compared 3 ML models (Logistic Regression, SVM, Multiple Linear Regression) for predicting heart attack risk using the heart.csv dataset.
+
+Preprocessed real-world medical data using feature scaling, missing value treatment, and train-test splitting.
+
+Achieved model accuracy of:
+
+SVM: 86% accuracy, 89% precision, 80% recall, 85% F1-score
+
+Logistic Regression: 86% accuracy, 92% precision, 79% recall, 85% F1-score
+
+Multiple Linear Regression: 85% accuracy, 93% precision, 76% recall, 83% F1-score
+
+Used confusion matrix, ROC curves, and cross-validation for detailed performance evaluation.
+
+Demonstrated that SVM performed best across all metrics, proving its suitability for binary health risk prediction.
+
+Showcased the role of ML in early detection of cardiovascular issues to support timely medical intervention.
